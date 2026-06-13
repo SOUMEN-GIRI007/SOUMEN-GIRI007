@@ -1,18 +1,173 @@
-# 💫 About Me:
-# Hi 👋 I'm Soumen Giri<br><br>🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 Technology Enthusiast<br><br>Welcome to my GitHub profile!<br><br>I am a passionate Computer Applications student interested in Software Development, Backend Development, and building scalable web applications.<br><br>Currently, I am improving my skills in Java, Spring Boot, Database Management, and Modern Web Technologies by developing real-world projects.<br><br>## 👨‍💻 About Me<br><br>- 🎓 Pursuing Master of Computer Applications (MCA)<br>- 💡 Interested in Backend Development & Full Stack Development<br>- 🌱 Currently learning advanced Java, Spring Boot, Hibernate, REST API & Database Design<br>- 🔨 Building practical projects to improve my development skills<br>- 📚 Always exploring new technologies and improving my coding ability<br><br>## 🛠️ Technical Skills<br><br>### Programming Languages<br>☕ Java  <br>🐍 Python (Basic)  <br>🌐 JavaScript (Basic)<br><br>### Backend Development<br>🚀 Spring Boot  <br>🔗 Spring MVC  <br>🗄️ Hibernate / JPA  <br>🔌 REST API Development<br><br>### Frontend Technologies<br>🌐 HTML  <br>🎨 CSS  <br>🖌️ Bootstrap  <br>⚡ JSP<br><br>### Database<br>🛢️ MySQL  <br>📊 SQL<br><br>### Tools & Platforms<br>🐙 Git & GitHub  <br>💻 VS Code  <br>🖥️ Eclipse / IntelliJ IDEA  <br>🐬 MySQL Workbench<br><br>## 🚀 Projects<br><br>### Education Employment & Skill Development System<br>A web-based application developed using:<br><br>- Java Spring Boot<br>- Spring MVC<br>- JPA/Hibernate<br>- MySQL<br>- HTML/CSS<br>- Bootstrap<br>- JSP<br><br>Features:<br>✅ User Registration & Login  <br>✅ Job Seeker Module  <br>✅ Admin Dashboard  <br>✅ Course & Job Management  <br>## 🚀 Projects<br><br>### 🎓 Education Employment & Skill Development System (ESD)<br>A full-stack web application designed to connect students, job seekers, and administrators.<br><br>**Technologies Used:**<br>- Java<br>- Spring Boot<br>- Spring MVC<br>- JPA / Hibernate<br>- MySQL<br>- JSP<br>- HTML<br>- CSS<br>- Bootstrap<br><br>**Features:**<br>- User Registration & Login<br>- Job Seeker Module<br>- Admin Dashboard<br>- Course Management<br>- Job Management<br>- Database Integration<br><br><br>---<br><br>### 🛒 NeoShop - E-Commerce Web Application<br><br>A dynamic e-commerce web application developed for online shopping experience.<br><br>**Technologies Used:**<br>- Java<br>- Spring MVC<br>- Hibernate<br>- JSP<br>- HTML<br>- CSS<br>- MySQL<br><br>**Features:**<br>- User Authentication<br>- Product Management<br>- Shopping Cart<br>- Order Management<br>- Database Connectivity<br>- MVC Architecture<br><br><br>---<br><br>### 🏫 Student Attendance Management System<br><br>A web-based attendance management system built using Java Servlet and JSP.<br><br>**Technologies Used:**<br>- Core Java<br>- Object Oriented Programming (OOP)<br>- Java Servlet<br>- JSP<br>- MySQL<br><br>**Features:**<br>- Student Management<br>- Attendance Tracking<br>- Faculty Module<br>- Record Management<br>- Database Operations<br>- CRUD Operations<br><br><br><br><br>## 🎯 Career Goal<br><br>To become a skilled software developer and contribute to innovative projects while continuously learning new technologies.<br><br>## 📫 Connect With Me<br><br>GitHub: Follow my projects and coding journey 🚀<br><br>Thanks for visiting my profile! ⭐
+<div align="center">
 
+# 👋 Hi, I'm Soumen Giri
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soumen Giri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soumen Giri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Soumen4640@gmail.com) 
+### 💻 Aspiring Software Developer | 🎓 MCA Student | 🚀 Java Backend Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SOUMEN-GIRI007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SOUMEN-GIRI007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SOUMEN-GIRI007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SOUMEN-GIRI007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+
+Hello Everyone 👋  
+I am **Soumen Giri**, a passionate **MCA student** and aspiring software developer.
+
+I am interested in building scalable web applications, backend systems, and solving real-world problems through technology.
+
+Currently focusing on:
+
+- ☕ Java Development
+- 🚀 Spring Boot
+- 🔗 Spring MVC
+- 🗄️ Hibernate & JPA
+- 🌐 REST API
+- 🛢️ Database Management
+
+
+---
+
+## 🧑‍💻 My Skills
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Basic-blue?style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow?style=for-the-badge)
+
+
+### Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
+
+![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven)
+
+
+---
+
+# 🚀 Projects
+
+
+## 🎓 Education Employment & Skill Development System
+
+Full-stack web application for students, job seekers and admin management.
+
+### Tech Stack:
+
+Java | Spring Boot | Spring MVC | Hibernate | JPA | MySQL | JSP | HTML | CSS | Bootstrap
+
+
+### Features:
+
+✅ User Registration & Login  
+✅ Job Seeker Dashboard  
+✅ Admin Panel  
+✅ Course Management  
+✅ Job Management  
+✅ Database Integration  
+
+
+---
+
+## 🛒 NeoShop - E-Commerce Application
+
+Online shopping web application built using Java MVC architecture.
+
+
+### Tech Stack:
+
+Java | Spring MVC | Hibernate | JSP | MySQL
+
+
+### Features:
+
+✅ User Authentication  
+✅ Product Management  
+✅ Shopping Cart  
+✅ Order Management  
+✅ CRUD Operations  
+
+
+---
+
+## 🏫 Student Attendance Management System
+
+Attendance management system using Servlet and JSP.
+
+
+### Tech Stack:
+
+Core Java | OOP | Servlet | JSP | MySQL
+
+
+### Features:
+
+✅ Student Management  
+✅ Attendance Tracking  
+✅ Faculty Module  
+✅ Database Operations  
+
+
+---
+
+# 📚 Currently Learning
+
+🌱 Advanced Java  
+🌱 Spring Boot REST API  
+🌱 Microservices  
+🌱 Cloud Basics  
+🌱 System Design  
+
+
+---
+
+# 🎯 Career Objective
+
+To become a skilled software developer and contribute to innovative software solutions while continuously improving my technical skills.
+
+
+---
+
+# 📊 GitHub Stats
+
+
+![Soumen GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+
+---
+
+# 📫 Connect With Me
+
+⭐ GitHub: Coding | Learning | Building 🚀
+
+Thanks for visiting my profile ❤️
